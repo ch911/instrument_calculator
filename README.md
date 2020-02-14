@@ -1,2 +1,4 @@
 # instrument_calculator
-calculator for specific instrument
+calculator for specific instrument birefringence
+birefringence
+birefringence
